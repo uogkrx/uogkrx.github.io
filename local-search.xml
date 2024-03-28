@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>我的首页</title>
+    <link href="/homepage/"/>
+    <url>/homepage/</url>
+    
+    <content type="html"><![CDATA[<p>我终于有我自己的主页啦<br><img src="https://s2.loli.net/2024/03/28/xtENJBvKFeDoAjg.png" alt="！！！"><br>以后朋友们可以记下我的主页所有的就都在了，或者下次把我的博客关于页搞过去</p><p>—安心Anson <a href="ognn.top">我的博客</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>发布</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>安心喜欢的视频分享</title>
     <link href="/ysjf/"/>
     <url>/ysjf/</url>
