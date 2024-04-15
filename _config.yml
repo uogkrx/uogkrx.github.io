@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: 安心
 subtitle: ''
 description: ''
 keywords:
-author: JiJi
-language: en
+author: Anson
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jiji.pro/hexo-template
+url: https://blog.oxnn.cn
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
