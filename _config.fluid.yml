@@ -1073,14 +1073,14 @@ links:
 
     - {
       title: 'hyakutake',
-      intro: '（未添加）嫌われる勇気',
+      intro: '嫌われる勇気',
       link: 'https://hi.hyakutake.site/',
       avatar: 'https://api.hyakutake.site/api/v2/objects/avatar/bur6h96l93m7baolwm.jpg'
     }
 
     - {
       title: 'CheesiT ‘s blog',
-      intro: '（未添加）淡泊以明志，宁静而致远.',
+      intro: '淡泊以明志，宁静而致远.',
       link: 'https://armeo.org/',
       avatar: 'https://armeo.org/avatar/avatar.jpg'
     }
