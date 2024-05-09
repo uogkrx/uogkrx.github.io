@@ -43,6 +43,25 @@
   
   <entry>
     <title>我的群聊</title>
+    <link href="/new/"/>
+    <url>/new/</url>
+    
+    <content type="html"><![CDATA[<p>我们决定更换我们的播客，更换为zblog<br>我们将在准备完毕后更换，届时你可以继续访问次域名，同时你也可以访问anson.fun来进入我的播客</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>发布</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的群聊</title>
     <link href="/ql/"/>
     <url>/ql/</url>
     
